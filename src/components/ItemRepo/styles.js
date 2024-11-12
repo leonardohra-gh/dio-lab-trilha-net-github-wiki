@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 const ItemContainer = styled.div`
     width: 80%;
-    height: 20px;
 
     h3{
         font-size: 32px;
